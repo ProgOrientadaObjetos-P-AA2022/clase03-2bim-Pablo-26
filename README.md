@@ -1,6 +1,6 @@
 # clase03-2bim
 
-**Integrantes: **
+** Integrantes: **
 
 * Pablo Ramon
 * Joseph Martínez
