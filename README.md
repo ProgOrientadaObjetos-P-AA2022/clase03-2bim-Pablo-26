@@ -2,7 +2,7 @@
 
 ## Integrantes: 
 
-* Pablo Ramon
+* Pablo Ramón
 * Joseph Martínez
 * Iván Peralta
  
